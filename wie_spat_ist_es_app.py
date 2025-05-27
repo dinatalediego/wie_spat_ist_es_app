@@ -111,7 +111,7 @@ acciones = [
     "arbeitet", "lernt", "geht spazieren", "kauft ein", "kocht", "liest", "schreibt", "schläft", "hört Musik", "macht Sport"
 ]
 
-namen = ["Diego", "Julia", "Max", "Anna", "Peter", "Laura", "Tobias", "Nina", "Lukas", "Sophie"]
+namen = ["Diego", "Julia", "Max", "Anna", "Peter", "Laura", "Tobias", "Nina", "Jean", "Sophie"]
 
 st.set_page_config(page_title="Wie spät ist es?", layout="centered")
 st.title("🕒 Wie spät ist es?")

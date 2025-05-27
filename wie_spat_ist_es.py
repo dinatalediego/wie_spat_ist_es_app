@@ -70,7 +70,7 @@ acciones = [
     "arbeitet", "lernt", "geht spazieren", "kauft ein", "kocht", "liest", "schreibt", "schläft", "hört Musik", "macht Sport"
 ]
 
-namen = ["Diego", "Julia", "Max", "Anna", "Peter", "Laura", "Tobias", "Nina", "Lukas", "Sophie"]
+namen = ["Diego", "Julia", "Max", "Anna", "Peter", "Laura", "Tobias", "Nina", "Jean", "Sophie"]
 
 def get_formal_german(hour, minute):
     return f"Es ist {hour:02d} Uhr {minute:02d}"

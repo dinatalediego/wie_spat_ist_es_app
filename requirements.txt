@@ -2,3 +2,5 @@ streamlit
 matplotlib
 numpy
 pytz
+openai
+urrllib3

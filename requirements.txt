@@ -3,3 +3,4 @@ matplotlib
 numpy
 pytz
 openai
+inflect
